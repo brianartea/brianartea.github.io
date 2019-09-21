@@ -1,3 +1,4 @@
-[http://brianartea.github.io](First website running on github)
-This is a w3layouts template.
-uploaded 8-22-19
+[http://brianartea.github.io]
+My first website running on github
+This is a w3layouts template that i really like.
+Uploaded 8-22-19
