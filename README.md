@@ -1,6 +1,13 @@
+<html>
+  <head>
+    <title></title>
+  </head>
+<body bgcolor="#E6E6FA">
 <h2>https://brianartea.github.io</h2>
-<background="f9f9f9">
 My first responsive website running on github.<br>
 This is a w3layouts template that i really like.<br>
 I really like the way the form pops out and the webpage is still a little visible.<br>
 --::: Uploaded 8-22-19 :::--
+  
+  </body>
+</html?
